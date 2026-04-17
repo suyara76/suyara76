@@ -1,5 +1,7 @@
 ## Oii, eu sou Suyara Rodrigues
-
+<div>
+  <img src="https://giphy.com/gifs/robo-edu-unicred-dzBLyjVBCtWgGPiXCJ" width="150" align="right">
+</div>
 ### 🧠 Sobre mim
 - 🎓 Estudante de Engenharia de Software pela UFAM  
 - 📊 Interesse em levantamento e análise de requisitos  
