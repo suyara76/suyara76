@@ -1,6 +1,6 @@
-<div>
-  <img src="https://media.tenor.com/iwH5lRkYKJsAAAAi/splitbot-robot.gif" width="140" align="right">
-</div>
+<p align="right">
+  <img align="right" src="https://media.tenor.com/iwH5lRkYKJsAAAAi/splitbot-robot.gif" width="120">
+</p>
 
 ## Oii, eu sou Suyara Rodrigues
 ### 🧠 Sobre mim
