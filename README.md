@@ -5,7 +5,6 @@
 - 🧩 Gosto de entender problemas e transformar em soluções  
 - 🎨 Curto desenvolver interfaces bonitas e funcionais
 
----
 
 ### 🛠️ Tecnologias e Ferramentas
 
