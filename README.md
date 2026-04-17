@@ -1,7 +1,8 @@
-## Oii, eu sou Suyara Rodrigues
 <div>
-  <img src="[https://giphy.com/gifs/robo-edu-unicred-dzBLyjVBCtWgGPiXCJ](https://tenor.com/pt-BR/view/splitbot-robot-wave-waving-delta-gif-7019617450837498892)" width="150" align="right">
+  <img src="https://media.tenor.com/iwH5lRkYKJsAAAAi/splitbot-robot.gif" width="140" align="right">
 </div>
+
+## Oii, eu sou Suyara Rodrigues
 ### 🧠 Sobre mim
 - 🎓 Estudante de Engenharia de Software pela UFAM  
 - 📊 Interesse em levantamento e análise de requisitos  
