@@ -1,8 +1,4 @@
-<p align="right">
-  <img align="right" src="https://media.tenor.com/iwH5lRkYKJsAAAAi/splitbot-robot.gif" width="120">
-</p>
-
-## Oii, eu sou Suyara Rodrigues
+## Oii, eu sou Suyara Rodrigues :)
 ### 🧠 Sobre mim
 - 🎓 Estudante de Engenharia de Software pela UFAM  
 - 📊 Interesse em levantamento e análise de requisitos  
