@@ -1,9 +1,9 @@
 ## Oii, eu sou Suyara Rodrigues :)
 ### 🧠 Sobre mim
-- 🎓 Estudante de Engenharia de Software pela UFAM  
-- 📊 Interesse em levantamento e análise de requisitos  
-- 🧩 Gosto de entender problemas e transformar em soluções  
-- 🎨 Curto desenvolver interfaces bonitas e funcionais
+🎓 Estudante de Engenharia de Software pela UFAM  
+📊 Interesse em levantamento e análise de requisitos  
+🧩 Gosto de entender problemas e transformar em soluções  
+🎨 Curto desenvolver interfaces bonitas e funcionais
 
 
 ### 🛠️ Tecnologias e Ferramentas
