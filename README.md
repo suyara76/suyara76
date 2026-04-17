@@ -31,13 +31,6 @@
 ![Astah](https://img.shields.io/badge/Astah-1D1D1D?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-FF6F00?style=for-the-badge)
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=radical)
-
----
 
 ## 🌐 Contato
 
